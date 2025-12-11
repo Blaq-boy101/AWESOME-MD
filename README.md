@@ -7,7 +7,7 @@ WhatsApp Assistance
 </div>
 
 <div align="center">
-  <a href="https://files.catbox.moe/i2ul8f.jpg">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  <a href="https://github.com/Blaqboy101/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-lightblue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
