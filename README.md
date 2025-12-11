@@ -9,7 +9,7 @@ WhatsApp Assistance
 
 <div align="center">
   <a href="https://files.catbox.moe/eduvwb.webp">
-    <img src="https://img.shields.io/badge/AWESOME+MD-Darkgreen?style=for-the-img" alt="https://files.catbox.moe/eduvwb.webp"/>
+    <img src="https://files.catbox.moe/eduvwb.webp/badge/AWESOME+MD-Darkgreen?style=for-the-img" alt="https://files.catbox.moe/eduvwb.webp"/>
   </a>
 </div>
 
