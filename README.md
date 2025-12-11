@@ -6,8 +6,15 @@ WhatsApp Assistance
   </a> 
 </div>
 
+
 <div align="center">
-  <a href="https://github.com/Blaqboy101/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-lightblue?style=for-the-badge" alt="Fork the repository"/>
+  <a href="https://files.catbox.moe/eduvwb.webp">
+    <img src="https://img.shields.io/badge/AWESOME+MD-Darkgreen?style=for-the-img" alt="https://files.catbox.moe/eduvwb.webp"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Blaq-boy101/AWESOME-MD/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-navyblue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
