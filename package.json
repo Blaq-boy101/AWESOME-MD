@@ -1,0 +1,13 @@
+{
+  "name": "awesome-md",
+  "version": "1.0.0",
+  "description": "WhatsApp Multi Device Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["whatsapp", "bot"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
