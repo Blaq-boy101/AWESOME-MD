@@ -6,8 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["whatsapp", "bot"],
+  "keywords": [
+    "whatsapp",
+    "bot"
+  ],
   "author": "",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0"
+  }
 }
