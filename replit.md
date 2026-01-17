@@ -15,13 +15,15 @@ WhatsApp Multi Device Bot using @whiskeysockets/baileys library.
 - `.ping` - Check bot status
 - `.menu` or `.help` - Show command menu
 - `.info` - Display bot information
+- `.owner` - Show bot owner
+- `.repo` - Display boy repository
 
 ## Configuration
 Edit `config.js` to customize:
 - `botName` - Bot display name
 - `ownerNumber` - Owner's phone number
 - `prefix` - Command prefix (default: `.`)
-- `mode` - public/private mode
+- `mode` - public/private/group mode
 
 ## Running the Project
 Run with: `node index.js`
