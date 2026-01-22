@@ -23,7 +23,7 @@ WhatsApp Assistance
 
 | BOT NAME                         | CREATOR/OWNER | REPOSITORY                                       |
 |---------------------------------|---------------------|------------------------------------------------|
-| AWESOME-MD               | BLAQ BOY TECH             | :BLAQ FIRE MD: YES (since version `0.1.0`) |
+| AWESOME-MD               | BLAQ BOY TECH             | : https//github.com/ Blaq-boy101/AWESOME-MD|
 | Inter-server communication      | `4.1.0`             | :white_check_mark: YES (since version `0.1.0`) |
 | Broadcast with acknowledgements | `4.5.0`             | :white_check_mark: YES (since version `0.1.0`) |
 | Connection state recovery       | `4.6.0`             | :white_check_mark: YES (since version `0.1.0`) |
