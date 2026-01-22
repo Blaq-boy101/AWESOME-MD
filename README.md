@@ -12,3 +12,17 @@ WhatsApp Assistance
     <img src="https://img.shields.io/badge/Fork-Repository-navyblue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
+
+
+
+==========================================
+||  BLAQ BOY TECH |THE CREATOR OF MANY   ||
+||  THE KING OF   |POWERFUL WHATSAPP.    ||
+||  TECHNOLOGY    |AUTOMATOR BOT🦾       ||
+||                |                      ||
+||========================================|
+||                |                      ||
+||                |                      ||
+||                |                      ||
+||                |                      ||
+==========================================
