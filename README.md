@@ -18,16 +18,15 @@ WhatsApp Assistance
 
 
 
-## SUPPORTED MEDIA
+## BLAQ-BOY TECH MEDIA
 
 
-| BOT NAME                         | CREATOR/OWNER | REPOSITORY                                       |
-|---------------------------------|---------------------|------------------------------------------------|
-| AWESOME-MD               | BLAQ BOY TECH             |     <img src="https://img.shields.io/badge/Fork-Repository-navyblue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
-
-
-| hi | hello | world |   
-|----|-------|-------|
-| author | Blaq-boy | WhatsAppbot |
+|AWESOME-MD|||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
