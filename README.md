@@ -25,9 +25,7 @@ WhatsApp Assistance
 |---------------------------------|---------------------|------------------------------------------------|
 | AWESOME-MD               | BLAQ BOY TECH             |     <img src="https://img.shields.io/badge/Fork-Repository-navyblue?style=for-the-badge" alt="Fork the repository"/>
   </a>
-</div>
-
-|
+</div> |
 | Inter-server communication      | `4.1.0`             | :white_check_mark: YES (since version `0.1.0`) |
 | Broadcast with acknowledgements | `4.5.0`             | :white_check_mark: YES (since version `0.1.0`) |
 | Connection state recovery       | `4.6.0`             | :white_check_mark: YES (since version `0.1.0`) |
