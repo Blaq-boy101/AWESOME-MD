@@ -16,19 +16,10 @@ WhatsApp Assistance
 
 
 
-|  BLAQ BOY TECH |THE CREATOR OF MANY   |
-| THE KING OF   |POWERFUL WHATSAPP.     |
-|  TECHNOLOGY    |AUTOMATOR BOT🦾       |
-|                |                      |
-|‐------------------------------------------------------------------------------------------|
-|                |                      |
-|        hi      |        hello.        |
-|                |            world     |
-|                |                      |
-|---------------------------------------|
+##SUPPORTED MEDIA
 
 
-| Feature                         | `socket.io` version | Support                                        |
+| Feature                         | `AWESOME-MD ` version | Support                                        |
 |---------------------------------|---------------------|------------------------------------------------|
 | Socket management               | `4.0.0`             | :white_check_mark: YES (since version `0.1.0`) |
 | Inter-server communication      | `4.1.0`             | :white_check_mark: YES (since version `0.1.0`) |
