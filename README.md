@@ -19,9 +19,9 @@ WhatsApp Assistance
 ##SUPPORTED MEDIA
 
 
-| Feature                         | `AWESOME-MD ` version | Support                                        |
+| FIRST-PATH                         | SECOND PATH | THIRD PATH                                       |
 |---------------------------------|---------------------|------------------------------------------------|
-| Bot management               | `4.0.0`             | :white_check_mark: YES (since version `0.1.0`) |
+| BOT NAME               | ${configbotname}             | :white_check_mark: YES (since version `0.1.0`) |
 | Inter-server communication      | `4.1.0`             | :white_check_mark: YES (since version `0.1.0`) |
 | Broadcast with acknowledgements | `4.5.0`             | :white_check_mark: YES (since version `0.1.0`) |
 | Connection state recovery       | `4.6.0`             | :white_check_mark: YES (since version `0.1.0`) |
