@@ -21,12 +21,31 @@ WhatsApp Assistance
 ## BLAQ-BOY TECH MEDIA
 
 
-|ABM-XMD|||
-|AWESOME-MD|||
-|BLAQ-PANTHER-|||
-|PLAQFIRE-MD|||
-|CHRISS-MD|||
-|COLDPATH-MD|||
+| ABM-XMD |||
+|---------|-|-|
+| AWESOME-MD |||
+|------------|-|-|
+| BLAQ-PANTHER MD |||
+|-----------------|-|-|
+| BLAQFIRE-MD |||
+|-------------|-|-|
+| CHRISS-MD |||
+|-----------|-|-|
+| COLDPATH-MD |||
+|-------------|-|-|
+| DRAGONS MD |||
+|------------|-|-|
+| GIFT MD |||
+|---------|-|-|
+| HEXHUB MD |||
+|-----------|-|-|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 ||||
 ||||
 ||||
