@@ -18,34 +18,25 @@ WhatsApp Assistance
 
 
 
-## BLAQ-BOY TECH MEDIA
+## OTHER MEDIA
 
 
-| ABM-XMD |||
-|---------|-|-|
-| AWESOME-MD |||
-|------------|-|-|
-| BLAQ-PANTHER MD |||
-|-----------------|-|-|
-| BLAQFIRE-MD |||
-|-------------|-|-|
-| CHRISS-MD |||
-|-----------|-|-|
-| COLDPATH-MD |||
-|-------------|-|-|
-| DRAGONS MD |||
-|------------|-|-|
-| GIFT MD |||
-|---------|-|-|
-| HEXHUB MD |||
-|-----------|-|-|
-| HONOR-XMD |||
-| KEITH MD |||
-|SASHA MD |||
+| BLAQ-BOY TECH | MULTI-DEVICE | WHATSAPP-BOT|
+|---------------|--------------|-------------|
+| ABM-XMD | WHATSAPP-BOT| BY BLAQ-BOY |
+| AWESOME-MD | WHATSAPP-BOT|BY BLAQ-BOY |
+| BLAQ-PANTHER MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| BLAQFIRE-MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| CHRISS-MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| COLDPATH-MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| DRAGONS MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| GIFT MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| HEXHUB MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| HONOR-XMD | WHATSAPP-BOT | BY BLAQ-BOY |
+| KEITH MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| KING-KONG MD | WHATSAPP-BOT | BY BLAQ-BOY |
+|SASHA MD | WHATSAPP-BOT | BY BLAQ-BOY |
+| SKYLINE-REPO | WHATSAPP-BOT | BY BLAQ-BOY |
 ||||
-||||
-||||
-||||
-||||
-||||
-||||
+| ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ sᴜᴘᴘᴏʀᴛɪɴɢ ʙʟᴀǫ ʙᴏʏ ᴛᴇᴄʜ |
+| ᴀᴜᴘᴘᴏʀᴛ | ᴜs | ᴏɴ ɢᴍᴀɪʟ | blaqskyper@gmail.com |
