@@ -1,5 +1,5 @@
 {
-  "name": "awesome-md",
+  "name": "AWESOME-MD",
   "version": "1.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "",
+  "author": "BLAQ-BOY",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",
