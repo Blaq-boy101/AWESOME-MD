@@ -1,4 +1,5 @@
 module.exports = {
+  //session and bot settings 
   botName: 'AWESOME-MD',
   ownerNumber: '263783546271',
   prefix: '.',
