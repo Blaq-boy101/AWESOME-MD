@@ -8,10 +8,7 @@ async function startBot(sock) {
     if (!msg.message) return;
     
     const messageType = Object.keys(msg.message)[0];
-    const text = messageType === 'conversation' 
-      ? msg.message.conversation 
-      : msg.message[messageType]?.text || '';
-    
+    const text = messageType === 'conversation' ? msg.message.conversation : msg.message[messageType]?.text || '';
     const from = msg.key.remoteJid;
     const isGroup = from.endsWith('@g.us');
     const sender = isGroup ? msg.key.participant : from;
@@ -28,7 +25,11 @@ async function startBot(sock) {
       const command = text.slice(config.prefix.length).trim().split(' ')[0].toLowerCase();
       const args = text.slice(config.prefix.length + command.length).trim().split(' ');
       
-      await handleCommand(sock, msg, command, args, from, sender, isGroup);
+      try {
+        await handleCommand(sock, msg, command, args, from, sender, isGroup);
+      } catch (error) {
+        console.error('Error handling command:', error);
+      }
     }
   });
 }
@@ -46,26 +47,23 @@ async function handleCommand(sock, msg, command, args, from, sender, isGroup) {
       await sock.sendMessage(from, { text: getBotInfo() });
       break;
     default:
+      // Handle unknown command
       break;
   }
 }
 
 function getMenu() {
-  const config = require('./config');
   return `╭━━━━━━━━━━━━━━━╮
-┃  ${config.botName}
+┃ ${config.botName}
 ╰━━━━━━━━━━━━━━━╯
-
 *Commands:*
 ${config.prefix}ping - Check bot status
 ${config.prefix}menu - Show this menu
 ${config.prefix}info - Bot information
-
 _Powered by ${config.author}_`;
 }
 
 function getBotInfo() {
-  const config = require('./config');
   return `*Bot Name:* ${config.botName}
 *Author:* ${config.author}
 *Mode:* ${config.mode}
